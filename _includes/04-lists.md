@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Data Science
+Machine Learning
+Python
+   1. Django
+   2. Flask
